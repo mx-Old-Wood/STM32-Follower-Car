@@ -1,0 +1,10 @@
+*.PcbDoc binary
+*.PcbLib binary
+*.SchDoc binary
+*.SchLib binary
+*.SCHLIB binary
+*.PrjPcb text eol=crlf
+*.uvprojx text eol=crlf
+
+firmware/follower/Library/** linguist-vendored
+firmware/follower/Start/** linguist-vendored

@@ -1,0 +1,33 @@
+# Keil build and user state
+Objects/
+Listings/
+DebugConfig/
+*.uvoptx
+*.uvguix*
+*.o
+*.d
+*.crf
+*.axf
+*.lnp
+*.dep
+*.map
+*.lst
+*.sct
+*.bak
+*.log
+
+# Altium generated and local state
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.IntLib
+*.PrjPcbStructure
+*.REP
+*.RUL
+
+# OS and editor state
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
